@@ -1,3 +1,3 @@
-# Canal-Street-Marker-homepage-recreation
+# Canal-Street-Marker-homepage-clone
 
-In this project I will attempt to recreate the Canal Street Marker homepage.
+Clone of the the Canal Street Marker homepage.
